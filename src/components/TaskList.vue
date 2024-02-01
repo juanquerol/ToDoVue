@@ -21,8 +21,8 @@
       return {
         tasks: [
           { id: 1, text: 'Hacer la compra', done: false },
-          { id: 2, text: 'Estudiar Vue.js', done: true },
-          { id: 3, text: 'Bailar', done: false },
+          { id: 2, text: 'Estudiar Vue.js', done: false },
+          
           // Agrega más tareas según sea necesario
         ],
         newTaskText: '', // Nuevo campo de entrada para la nueva tarea
